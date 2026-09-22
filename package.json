@@ -1,0 +1,14 @@
+{
+  "name": "geoguardian",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix backend start",
+    "backend": "npm --prefix backend start",
+    "frontend": "npm --prefix frontend start",
+    "build": "npm --prefix frontend run build",
+    "dev": "concurrently \"npm --prefix backend run dev\" \"npm --prefix frontend start\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
