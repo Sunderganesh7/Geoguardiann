@@ -296,10 +296,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 
-## 🌟 Star This Repository
 
-If you find GeoGuardian useful, please ⭐ this repository to show your support!
-
----
-
-**Made with ❤️ for our planet** 🌍
