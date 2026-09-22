@@ -6,12 +6,6 @@
 
 ## 🌍 Overview
 
-GeoGuardian democratizes professional satellite monitoring by providing free, AI-powered environmental change detection. Monitor deforestation, wildfires, floods, and climate change in real-time with automated alerts.
-
-**🎥 [Watch Demo Video](https://youtu.be/TY2LWT_43-k)**  
-**🚀 [Try Live App](https://geoguardian-mu.vercel.app/)**
-
----
 
 ## ✨ Features
 
@@ -290,13 +284,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
 
-## 👥 Team
 
-**Built with 💚 for Octopus Hackathon 2025**
-
----
 
 ## 🙏 Acknowledgments
 
@@ -306,11 +295,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📧 Contact
-
-- **Email:** mdomarkhan314@gmail.com
-
----
 
 ## 🌟 Star This Repository
 
